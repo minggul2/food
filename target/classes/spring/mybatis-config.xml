@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-config.dtd"><!-- mybatisdtd -->
+
+<configuration>
+	<typeAliases>
+		<!-- <typeAlias alias="memberDTO" type="member.bean.MemberDTO"/>
+		<typeAlias alias="boardDTO" type="board.bean.BoardDTO"/> -->
+		<!-- <typeAlias alias="imageboardDTO" type="imageboard.bean.ImageboardDTO"/> -->
+	</typeAliases>
+</configuration>
